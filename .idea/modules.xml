@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaSpring.iml" filepath="$PROJECT_DIR$/.idea/JavaSpring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-2020-BeanLifeCycle/Spring-2020-BeanLifeCycle.iml" filepath="$PROJECT_DIR$/Spring-2020-BeanLifeCycle/Spring-2020-BeanLifeCycle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring-2020-JavaAnnotations-Component/Spring-2020-JavaAnnotations-Component.iml" filepath="$PROJECT_DIR$/Spring-2020-JavaAnnotations-Component/Spring-2020-JavaAnnotations-Component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/Spring-2020-BeanLifeCycle (1).iml" filepath="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/Spring-2020-BeanLifeCycle (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/Spring-2020-BeanLifeCycle (2).iml" filepath="$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/Spring-2020-BeanLifeCycle (2).iml" />
     </modules>
   </component>
 </project>
