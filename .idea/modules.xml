@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaSpring.iml" filepath="$PROJECT_DIR$/.idea/JavaSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2020-BeanLifeCycle/Spring-2020-BeanLifeCycle.iml" filepath="$PROJECT_DIR$/Spring-2020-BeanLifeCycle/Spring-2020-BeanLifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2020-JavaAnnotations-Component/Spring-2020-JavaAnnotations-Component.iml" filepath="$PROJECT_DIR$/Spring-2020-JavaAnnotations-Component/Spring-2020-JavaAnnotations-Component.iml" />
+    </modules>
+  </component>
+</project>
