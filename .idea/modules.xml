@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-2020-BeanLifeCycle/Spring-2020-BeanLifeCycle.iml" filepath="$PROJECT_DIR$/Spring-2020-BeanLifeCycle/Spring-2020-BeanLifeCycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/Spring-2020-BeanLifeCycle (1).iml" filepath="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/Spring-2020-BeanLifeCycle (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/Spring-2020-BeanLifeCycle (2).iml" filepath="$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/Spring-2020-BeanLifeCycle (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/Spring-2020-JavaAnnotations3-Qulifier.iml" filepath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/Spring-2020-JavaAnnotations3-Qulifier.iml" />
     </modules>
   </component>
 </project>
