@@ -23,24 +23,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e8a095a-5712-4ba8-a4f2-33a65e2e785a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/Spring-2020-JavaAnnotations1-Component.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/src/main/java/com/JavaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/src/main/java/com/interfaces/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/src/main/java/com/interfaces/ExtraSessions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/src/main/java/com/services/Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/src/main/java/com/services/OfficeHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/src/main/java/com/services/Selenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/src/main/java/com/JavaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/src/main/java/com/interfaces/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/src/main/java/com/interfaces/ExtraSessions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/src/main/java/com/services/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/src/main/java/com/services/OfficeHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/src/main/java/com/services/PracticeHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/src/main/java/com/services/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/src/main/resources/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-2020-JavaAnnotations-Component/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-2020-JavaAnnotations-Component/src/main/java/com/JavaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/src/main/java/com/JavaApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-2020-JavaAnnotations-Component/src/main/java/com/interfaces/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/src/main/java/com/interfaces/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-2020-JavaAnnotations-Component/src/main/java/com/services/Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/src/main/java/com/services/Api.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-2020-JavaAnnotations-Component/src/main/java/com/services/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/src/main/java/com/services/Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-2020-JavaAnnotations-Component/src/main/java/com/services/Selenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/src/main/java/com/services/Selenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-2020-JavaAnnotations-Component/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/src/main/resources/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/src/main/java/com/services/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/src/main/java/com/services/Java.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +68,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -89,13 +84,14 @@
       <recent name="com" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\Documents\JavaSpring\Spring-2020-JavaAnnotations3-Qulifier\src\main\resources" />
+      <recent name="C:\Users\pc\Documents\JavaSpring\Spring-2020-JavaAnnotations3-Qulifier" />
+      <recent name="C:\Users\pc\Documents\JavaSpring\Spring-2020-JavaAnnotations3-Qulifier\src" />
       <recent name="C:\Users\pc\Documents\JavaSpring\Spring-2020-JavaAnnotations2-Autowired\src\main\resources" />
       <recent name="C:\Users\pc\Documents\JavaSpring\Spring-2020-JavaAnnotations2-Autowired" />
-      <recent name="C:\Users\pc\Documents\JavaSpring\Spring-2020-JavaAnnotations-Component\src\main\resources" />
-      <recent name="C:\Users\pc\Documents\JavaSpring\Spring-2020-JavaAnnotations-Component" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaApp (1)">
+  <component name="RunManager" selected="Application.JavaApp (2)">
     <configuration name="CybertekApp" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CybertekApp" />
       <module name="Spring-2020-BeanLifeCycle" />
@@ -112,6 +108,19 @@
     <configuration name="JavaApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.JavaApp" />
       <module name="Spring-2020-BeanLifeCycle (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaApp (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaApp" />
+      <module name="Spring-2020-JavaAnnotations3-Qulifier" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.*" />
@@ -150,6 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaApp (2)" />
         <item itemvalue="Application.JavaApp (1)" />
         <item itemvalue="Application.JavaApp" />
       </list>
@@ -164,7 +174,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603318888794</updated>
       <workItem from="1603318889878" duration="1231000" />
-      <workItem from="1603547587664" duration="5110000" />
+      <workItem from="1603547587664" duration="6821000" />
     </task>
     <task id="LOCAL-00001" summary="Commit #1">
       <created>1603319468702</created>
@@ -187,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603551479533</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit 3">
+      <created>1603553746716</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603553746716</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,64 +223,66 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit #1" />
     <MESSAGE value="Commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 2" />
+    <MESSAGE value="Commit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2360" y="172" key="#Project_Structure" timestamp="1603552461050">
+    <state x="2360" y="172" key="#Project_Structure" timestamp="1603554115942">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603318984613" />
-    <state x="2360" y="172" key="#Project_Structure/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603552461050" />
-    <state x="2685" y="304" key="#com.intellij.ide.util.MemberChooser" timestamp="1603553140544">
+    <state x="2360" y="172" key="#Project_Structure/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603554115942" />
+    <state x="2685" y="304" key="#com.intellij.ide.util.MemberChooser" timestamp="1603554882224">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
-    <state x="2685" y="304" key="#com.intellij.ide.util.MemberChooser/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603553140544" />
+    <state x="2685" y="304" key="#com.intellij.ide.util.MemberChooser/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603554882224" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603319327685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319327685" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603553154687">
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1603554841787">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319408076" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603553154687" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603553154687">
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603554841787" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1603554841787">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319408076" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603553154687" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603553154687">
+    <state width="1877" height="241" key="GridCell.Tab.0.center/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603554841787" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1603554841787">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319408076" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603553154687" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603553154687">
+    <state width="1877" height="241" key="GridCell.Tab.0.left/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603554841787" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1603554841787">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319408076" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603553154687" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603554841787" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1603319514465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319514465" />
-    <state x="2472" y="331" key="Vcs.Push.Dialog.v2" timestamp="1603551499769">
+    <state x="2472" y="331" key="Vcs.Push.Dialog.v2" timestamp="1603553771911">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319477088" />
-    <state x="2472" y="331" key="Vcs.Push.Dialog.v2/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603551499769" />
-    <state x="2471" y="218" key="new project wizard" timestamp="1603552377393">
+    <state x="2472" y="331" key="Vcs.Push.Dialog.v2/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603553771911" />
+    <state x="2471" y="218" key="new project wizard" timestamp="1603554058033">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
-    <state x="2471" y="218" key="new project wizard/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603552377393" />
+    <state x="2471" y="218" key="new project wizard/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603554058033" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603319073309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319073309" />
-    <state x="2521" y="281" key="spring file set editor" timestamp="1603552468743">
+    <state x="2521" y="281" key="spring file set editor" timestamp="1603554125720">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
-    <state x="2521" y="281" key="spring file set editor/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603552468743" />
+    <state x="2521" y="281" key="spring file set editor/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603554125720" />
   </component>
 </project>
