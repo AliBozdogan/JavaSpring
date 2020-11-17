@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Spring-2020-BeanLifeCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-JavaAnnotations-Component/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-JavaAnnotations-Autowired/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-JavaAnnotations2-Autowired/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qulifier/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-Value/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qualifier/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-JavaCode-PostConstruction-PreDestroy/pom.xml" />
+        <option value="$PROJECT_DIR$/springjavaboot/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-SpringBoot-IoCDI-Lab/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" project-jdk-name="12" project-jdk-type="JavaSDK" />
+</project>

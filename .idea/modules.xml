@@ -8,7 +8,15 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/Spring-2020-BeanLifeCycle (2).iml" filepath="$PROJECT_DIR$/Spring-2020-JavaAnnotations1-Component/Spring-2020-BeanLifeCycle (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qualifier/Spring-2020-JavaAnnotations3-Qualifier.iml" filepath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qualifier/Spring-2020-JavaAnnotations3-Qualifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/Spring-2020-JavaCode-Configuration.iml" filepath="$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/Spring-2020-JavaCode-Configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2020-JavaCode-PostConstruction-PreDestroy/Spring-2020-JavaCode-PostConstruction-PreDestroy.iml" filepath="$PROJECT_DIR$/Spring-2020-JavaCode-PostConstruction-PreDestroy/Spring-2020-JavaCode-PostConstruction-PreDestroy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2020-SpringBoot-IoC-DI-Lab.iml" filepath="$PROJECT_DIR$/Spring-2020-SpringBoot-IoC-DI-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Controller/Spring-2020-SpringBoot-MVC-Controller.iml" filepath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Controller/Spring-2020-SpringBoot-MVC-Controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-2020-Value/Spring-2020-Value.iml" filepath="$PROJECT_DIR$/Spring-2020-Value/Spring-2020-Value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2020-SpringBoot-IoCDI-Lab/app.iml" filepath="$PROJECT_DIR$/Spring-2020-SpringBoot-IoCDI-Lab/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/javaapp.iml" filepath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/javaapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springapp.iml" filepath="$PROJECT_DIR$/springapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springjava.iml" filepath="$PROJECT_DIR$/springjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springjavaboot/springjavaboot.iml" filepath="$PROJECT_DIR$/springjavaboot/springjavaboot.iml" />
     </modules>
   </component>
 </project>

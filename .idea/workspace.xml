@@ -23,28 +23,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e8a095a-5712-4ba8-a4f2-33a65e2e785a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/src/main/java/com/Configs/JavaAppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/src/main/java/com/JavaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/src/main/java/com/interfaces/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/src/main/java/com/interfaces/ExtraSessions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/src/main/java/com/services/Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/src/main/java/com/services/OfficeHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/src/main/java/com/services/Selenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-Value/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-Value/src/main/java/com/JavaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-Value/src/main/java/com/interfaces/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-Value/src/main/java/com/interfaces/ExtraSessions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-Value/src/main/java/com/services/Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-Value/src/main/java/com/services/OfficeHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-Value/src/main/java/com/services/PracticeHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-Value/src/main/java/com/services/Selenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-Value/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-2020-Value/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Controller/src/main/java/com/javaapp/controller/MentorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Controller/src/main/java/com/javaapp/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/src/main/java/com/javaapp/JavaappApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/src/main/java/com/javaapp/model/mentor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/src/test/java/com/javaapp/JavaappApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qualifier/Spring-2020-JavaAnnotations3-Qualifier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-2020-JavaAnnotations3-Qualifier/Spring-2020-JavaAnnotations3-Qualifier.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Controller/src/main/java/com/javaapp/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Controller/src/main/java/com/javaapp/controller/HomeController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -65,7 +64,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="C:\Users\pc\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -80,19 +79,26 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-2020-JavaCode-Configuration/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.services" />
       <recent name="com.interfaces" />
+      <recent name="com.services" />
       <recent name="com" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -103,36 +109,10 @@
       <recent name="C:\Users\pc\Documents\JavaSpring\Spring-2020-JavaAnnotations3-Qulifier\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaApp (4)">
+  <component name="RunManager" selected="Spring Boot.JavaappApplication (1)">
     <configuration name="CybertekApp" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CybertekApp" />
       <module name="Spring-2020-BeanLifeCycle" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaApp" />
-      <module name="Spring-2020-BeanLifeCycle (1)" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaApp (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaApp" />
-      <module name="Spring-2020-JavaAnnotations3-Qualifier" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.*" />
@@ -169,9 +149,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="JavaApp (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.JavaApp" />
-      <module name="JavaSpring" />
+      <module name="Spring-2020-JavaCode-PostConstruction-PreDestroy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.*" />
@@ -193,13 +173,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Spring-2020-BeanLifeCycle/springjavaboot/template/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="AppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.app.AppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaappApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="javaapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.javaapp.JavaappApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaappApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-2020-SpringBoot-MVC-Controller" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.javaapp.JavaappApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringjavaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springjavaboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springjava.SpringjavaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.JavaappApplication (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Application.JavaApp (5)" />
         <item itemvalue="Application.JavaApp (4)" />
         <item itemvalue="Application.JavaApp (3)" />
-        <item itemvalue="Application.JavaApp (2)" />
-        <item itemvalue="Application.JavaApp (1)" />
-        <item itemvalue="Application.JavaApp" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +230,15 @@
       <updated>1603318888794</updated>
       <workItem from="1603318889878" duration="1231000" />
       <workItem from="1603547587664" duration="12449000" />
-      <workItem from="1603565467689" duration="616000" />
+      <workItem from="1603565467689" duration="1893000" />
+      <workItem from="1603838212501" duration="1539000" />
+      <workItem from="1603840869573" duration="1804000" />
+      <workItem from="1603843815871" duration="2677000" />
+      <workItem from="1604011705056" duration="3678000" />
+      <workItem from="1604613583817" duration="12595000" />
+      <workItem from="1605241472303" duration="1804000" />
+      <workItem from="1605579494572" duration="92000" />
+      <workItem from="1605641412024" duration="7530000" />
     </task>
     <task id="LOCAL-00001" summary="Commit #1">
       <created>1603319468702</created>
@@ -264,7 +289,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603555151411</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit 5">
+      <created>1603566684618</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603566684618</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit - MODEL-VIEW-CONTROLLER">
+      <created>1605646620855</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605646620855</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,18 +327,28 @@
     <MESSAGE value="Commit 2" />
     <MESSAGE value="Commit 3" />
     <MESSAGE value="Commit 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 4" />
+    <MESSAGE value="Commit 5" />
+    <MESSAGE value="Commit - MODEL-VIEW-CONTROLLER" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - MODEL-VIEW-CONTROLLER" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2506" y="276" key="#Inspections" timestamp="1603844649422">
+      <screen x="1920" y="78" width="1920" height="1040" />
+    </state>
+    <state x="2506" y="276" key="#Inspections/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603844649422" />
     <state x="2360" y="172" key="#Project_Structure" timestamp="1603565000122">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603318984613" />
     <state x="2360" y="172" key="#Project_Structure/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603565000122" />
-    <state x="2685" y="304" key="#com.intellij.ide.util.MemberChooser" timestamp="1603565177334">
+    <state x="2685" y="304" key="#com.intellij.ide.util.MemberChooser" timestamp="1604621429883">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
-    <state x="2685" y="304" key="#com.intellij.ide.util.MemberChooser/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603565177334" />
+    <state x="2685" y="304" key="#com.intellij.ide.util.MemberChooser/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1604621429883" />
+    <state x="2458" y="522" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604620055293">
+      <screen x="1920" y="78" width="1920" height="1040" />
+    </state>
+    <state x="2458" y="522" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1604620055293" />
     <state x="2543" y="467" width="673" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603565094247">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
@@ -308,39 +357,80 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319327685" />
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1603565456171">
+    <state width="1877" height="165" key="GridCell.Tab.0.bottom" timestamp="1605657448310">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319408076" />
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603565456171" />
-    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1603565456171">
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603566664933" />
+    <state width="1877" height="165" key="GridCell.Tab.0.bottom/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1605657448310" />
+    <state width="1877" height="165" key="GridCell.Tab.0.center" timestamp="1605657448310">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319408076" />
-    <state width="1877" height="241" key="GridCell.Tab.0.center/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603565456171" />
-    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1603565456171">
+    <state width="1877" height="241" key="GridCell.Tab.0.center/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603566664933" />
+    <state width="1877" height="165" key="GridCell.Tab.0.center/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1605657448310" />
+    <state width="1877" height="165" key="GridCell.Tab.0.left" timestamp="1605657448309">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319408076" />
-    <state width="1877" height="241" key="GridCell.Tab.0.left/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603565456171" />
-    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1603565456171">
+    <state width="1877" height="241" key="GridCell.Tab.0.left/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603566664933" />
+    <state width="1877" height="165" key="GridCell.Tab.0.left/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1605657448309" />
+    <state width="1877" height="165" key="GridCell.Tab.0.right" timestamp="1605657448310">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319408076" />
-    <state width="1877" height="241" key="GridCell.Tab.0.right/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603565456171" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1603319514465">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603566664933" />
+    <state width="1877" height="165" key="GridCell.Tab.0.right/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1605657448310" />
+    <state width="1877" height="165" key="GridCell.Tab.1.bottom" timestamp="1605657448310">
+      <screen x="1920" y="78" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.1.bottom/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1605657448310" />
+    <state width="1877" height="165" key="GridCell.Tab.1.center" timestamp="1605657448310">
+      <screen x="1920" y="78" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.1.center/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1605657448310" />
+    <state width="1877" height="165" key="GridCell.Tab.1.left" timestamp="1605657448310">
+      <screen x="1920" y="78" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.1.left/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1605657448310" />
+    <state width="1877" height="165" key="GridCell.Tab.1.right" timestamp="1605657448310">
+      <screen x="1920" y="78" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.1.right/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1605657448310" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1604694808493">
+      <screen x="1920" y="78" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1604694808493" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1604694808493">
+      <screen x="1920" y="78" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1604694808493" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1604694808493">
+      <screen x="1920" y="78" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1604694808493" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1604694808493">
+      <screen x="1920" y="78" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1604694808493" />
+    <state x="2410" y="253" key="Maven.ArtifactSearchDialog" timestamp="1603840326540">
+      <screen x="1920" y="78" width="1920" height="1040" />
+    </state>
+    <state x="2410" y="253" key="Maven.ArtifactSearchDialog/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603840326540" />
+    <state x="2381" y="243" key="SettingsEditor" timestamp="1605657402007">
+      <screen x="1920" y="78" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319514465" />
-    <state x="2472" y="331" key="Vcs.Push.Dialog.v2" timestamp="1603555153859">
+    <state x="2381" y="243" key="SettingsEditor/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1605657402007" />
+    <state x="2472" y="331" key="Vcs.Push.Dialog.v2" timestamp="1605646630709">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603319477088" />
-    <state x="2472" y="331" key="Vcs.Push.Dialog.v2/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603555153859" />
-    <state x="2471" y="218" key="new project wizard" timestamp="1603562047243">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.78.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603566687664" />
+    <state x="2472" y="331" key="Vcs.Push.Dialog.v2/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1605646630709" />
+    <state x="2012" y="170" width="1736" height="856" key="dock-window-1" timestamp="1605645897631">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
-    <state x="2471" y="218" key="new project wizard/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1603562047243" />
+    <state x="2012" y="170" width="1736" height="856" key="dock-window-1/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1605645897631" />
+    <state x="2471" y="218" width="819" height="678" key="new project wizard" timestamp="1605657390163">
+      <screen x="1920" y="78" width="1920" height="1040" />
+    </state>
+    <state x="2471" y="218" width="819" height="678" key="new project wizard/1920.78.1920.1040/0.0.1920.1040@1920.78.1920.1040" timestamp="1605657390163" />
     <state x="2543" y="303" width="672" height="678" key="search.everywhere.popup" timestamp="1603561034396">
       <screen x="1920" y="78" width="1920" height="1040" />
     </state>
