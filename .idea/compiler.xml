@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="app" />
+        <module name="Spring-2020-Value" />
+        <module name="Spring-2020-SpringBoot-MVC-Controller" />
+        <module name="Spring-2020-JavaAnnotations3-Qualifier" />
+        <module name="Spring-2020-JavaCode-PostConstruction-PreDestroy" />
+        <module name="Spring-2020-JavaCode-Configuration" />
+        <module name="springjavaboot" />
+      </profile>
+      <profile name="Annotation profile for Spring-2020-BeanLifeCycle" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring-2020-BeanLifeCycle" />
+        <module name="Spring-2020-BeanLifeCycle (1)" />
+        <module name="Spring-2020-BeanLifeCycle (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app" target="11" />
+      <module name="Spring-2020-BeanLifeCycle" target="1.8" />
+      <module name="Spring-2020-BeanLifeCycle (1)" target="1.8" />
+      <module name="Spring-2020-BeanLifeCycle (2)" target="1.8" />
+      <module name="Spring-2020-JavaAnnotations1-Component" target="1.8" />
+      <module name="Spring-2020-JavaAnnotations2-Autowired" target="1.5" />
+      <module name="Spring-2020-JavaAnnotations3-Qualifier" target="1.8" />
+      <module name="Spring-2020-JavaCode-Configuration" target="1.8" />
+      <module name="Spring-2020-JavaCode-PostConstruction-PreDestroy" target="1.8" />
+      <module name="Spring-2020-SpringBoot-MVC-Controller" target="11" />
+      <module name="Spring-2020-Value" target="1.8" />
+      <module name="springjavaboot" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring-2020-SpringBoot-MVC-Controller" options="-parameters" />
+      <module name="app" options="-parameters" />
+      <module name="springjavaboot" options="-parameters" />
+    </option>
+  </component>
+</project>
