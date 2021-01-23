@@ -17,6 +17,15 @@
         <option value="$PROJECT_DIR$/Spring-2020-SpringBoot-IoCDI-Lab/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Controller/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2020-SQL-REVIEW/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2021-ORM-TableCreation/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2021-ORM2-Mapping-OneToOne/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2021-ORM3-ManyToOne/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2021-ORM4-OneToMany/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2021-ORM5-ManyToMany/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2021-ORM6-CinemaApp/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2021-ORM7-DerivedQueries/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2021-ORM8-JPQL-NamedQueries/pom.xml" />
       </list>
     </option>
   </component>

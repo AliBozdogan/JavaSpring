@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Spring-2020-SQL-REVIEW/src/main/resources/data.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Spring-2020-SQL-REVIEW/src/main/resources/functions.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Spring-2020-SQL-REVIEW/src/main/resources/index.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Spring-2020-SQL-REVIEW/src/main/resources/procedures.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Spring-2020-SQL-REVIEW/src/main/resources/triggers.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Spring-2021-ORM1-TableCreation/src/main/resources/data2.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Spring-2021-ORM7-DerivedQueries/src/main/resources/data.sql" dialect="PostgreSQL" />
+  </component>
+</project>

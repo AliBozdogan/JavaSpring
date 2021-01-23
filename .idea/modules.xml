@@ -13,10 +13,19 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Controller/Spring-2020-SpringBoot-MVC-Controller.iml" filepath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Controller/Spring-2020-SpringBoot-MVC-Controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-2020-Value/Spring-2020-Value.iml" filepath="$PROJECT_DIR$/Spring-2020-Value/Spring-2020-Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-2020-SpringBoot-IoCDI-Lab/app.iml" filepath="$PROJECT_DIR$/Spring-2020-SpringBoot-IoCDI-Lab/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2021-ORM6-CinemaApp/cinemaapp.iml" filepath="$PROJECT_DIR$/Spring-2021-ORM6-CinemaApp/cinemaapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2021-ORM7-DerivedQueries/derivedqueries.iml" filepath="$PROJECT_DIR$/Spring-2021-ORM7-DerivedQueries/derivedqueries.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/javaapp.iml" filepath="$PROJECT_DIR$/Spring-2020-SpringBoot-MVC-Form/javaapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2021-ORM8-JPQL-NamedQueries/jpql.iml" filepath="$PROJECT_DIR$/Spring-2021-ORM8-JPQL-NamedQueries/jpql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2021-ORM5-ManyToMany/manytomany.iml" filepath="$PROJECT_DIR$/Spring-2021-ORM5-ManyToMany/manytomany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2021-ORM2-Mapping-OneToOne/orm2.iml" filepath="$PROJECT_DIR$/Spring-2021-ORM2-Mapping-OneToOne/orm2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2021-ORM3-ManyToOne/orm3.iml" filepath="$PROJECT_DIR$/Spring-2021-ORM3-ManyToOne/orm3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2021-ORM1-TableCreation/ormconfig.iml" filepath="$PROJECT_DIR$/Spring-2021-ORM1-TableCreation/ormconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2021-ORM4-OneToMany/ormonetomany.iml" filepath="$PROJECT_DIR$/Spring-2021-ORM4-OneToMany/ormonetomany.iml" />
       <module fileurl="file://$PROJECT_DIR$/springapp.iml" filepath="$PROJECT_DIR$/springapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/springjava.iml" filepath="$PROJECT_DIR$/springjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/springjavaboot/springjavaboot.iml" filepath="$PROJECT_DIR$/springjavaboot/springjavaboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-2020-SQL-REVIEW/sqlreview.iml" filepath="$PROJECT_DIR$/Spring-2020-SQL-REVIEW/sqlreview.iml" />
     </modules>
   </component>
 </project>

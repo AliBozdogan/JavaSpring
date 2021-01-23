@@ -7,31 +7,48 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="app" />
-        <module name="Spring-2020-Value" />
         <module name="Spring-2020-SpringBoot-MVC-Controller" />
-        <module name="Spring-2020-JavaAnnotations3-Qualifier" />
         <module name="Spring-2020-JavaCode-PostConstruction-PreDestroy" />
-        <module name="javaapp" />
-        <module name="Spring-2020-JavaCode-Configuration" />
         <module name="springjavaboot" />
+        <module name="jpql" />
+        <module name="Spring-2020-Value" />
+        <module name="ormonetomany" />
+        <module name="derivedqueries" />
+        <module name="sqlreview" />
+        <module name="ormconfig" />
+        <module name="Spring-2020-JavaAnnotations3-Qualifier" />
+        <module name="cinemaapp" />
+        <module name="javaapp" />
+        <module name="orm2" />
+        <module name="Spring-2020-JavaCode-Configuration" />
+        <module name="orm3" />
+        <module name="manytomany" />
       </profile>
       <profile name="Annotation profile for Spring-2020-BeanLifeCycle" enabled="true">
         <sourceOutputDir name="../target/generated-sources/annotations" />
         <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-2020-BeanLifeCycle" />
-        <module name="Spring-2020-BeanLifeCycle (1)" />
-      </profile>
-      <profile name="Annotation profile for Spring-2020-BeanLifeCycle (2)" enabled="true">
-        <sourceOutputDir name="../Spring-2020-JavaAnnotations2-Autowired/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../Spring-2020-JavaAnnotations2-Autowired/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
         <module name="Spring-2020-BeanLifeCycle (2)" />
+      </profile>
+      <profile name="Annotation profile for Spring-2020-BeanLifeCycle (1)" enabled="true">
+        <sourceOutputDir name="../Spring-2020-BeanLifeCycle/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../Spring-2020-BeanLifeCycle/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring-2020-BeanLifeCycle (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="app" target="11" />
+      <module name="cinemaapp" target="11" />
+      <module name="derivedqueries" target="11" />
       <module name="javaapp" target="11" />
+      <module name="jpql" target="11" />
+      <module name="manytomany" target="11" />
+      <module name="orm2" target="11" />
+      <module name="orm3" target="11" />
+      <module name="ormconfig" target="11" />
+      <module name="ormonetomany" target="11" />
       <module name="Spring-2020-BeanLifeCycle" target="1.8" />
       <module name="Spring-2020-BeanLifeCycle (1)" target="1.8" />
       <module name="Spring-2020-BeanLifeCycle (2)" target="1.8" />
@@ -43,14 +60,24 @@
       <module name="Spring-2020-SpringBoot-MVC-Controller" target="11" />
       <module name="Spring-2020-Value" target="1.8" />
       <module name="springjavaboot" target="11" />
+      <module name="sqlreview" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Spring-2020-SpringBoot-MVC-Controller" options="-parameters" />
       <module name="app" options="-parameters" />
+      <module name="cinemaapp" options="-parameters" />
+      <module name="derivedqueries" options="-parameters" />
       <module name="javaapp" options="-parameters" />
+      <module name="jpql" options="-parameters" />
+      <module name="manytomany" options="-parameters" />
+      <module name="orm2" options="-parameters" />
+      <module name="orm3" options="-parameters" />
+      <module name="ormconfig" options="-parameters" />
+      <module name="ormonetomany" options="-parameters" />
       <module name="springjavaboot" options="-parameters" />
+      <module name="sqlreview" options="-parameters" />
     </option>
   </component>
 </project>
